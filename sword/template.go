@@ -2720,9 +2720,6 @@ var TemplateList = map[string]string{"403": `<div class="missing-content">
         <div class="pull-right hidden-xs">
             <b>Version</b> {{.System.Version}}
         </div>
-        <div class="pull-right hidden-xs">
-            <b>Theme</b> {{.System.Theme}}&nbsp;&nbsp;
-        </div>
         <strong>Powered by <a href="https://www.getxch.com">getXCH</a>.</strong>
         {{.FooterInfo}}
     </footer>
